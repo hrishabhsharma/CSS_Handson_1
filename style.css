@@ -1,0 +1,38 @@
+h1{
+    color: red;
+}
+h2{
+    color: tomato;
+    font-style: italic;
+}
+ol{
+    color: brown;
+    line-height: 3;
+}
+.del{
+    text-decoration-line: line-through;
+    font-weight: bold;
+}
+.back{
+    background-color: yellow;
+}
+.line{
+    font-style: italic;
+    text-decoration-line: underline;
+}
+ul{
+    letter-spacing: 5px;
+    color: brown;
+}
+.back{
+    background-color: yellow;
+    font-weight: bold;
+}
+.last{
+    color: brown;
+}
+a{
+    font-style: italic;
+    background-color: yellow;
+    color: brown;
+}
